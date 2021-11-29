@@ -1,5 +1,5 @@
 # Modules importation
-import os
+import os hi
 import base64
 try:
     from colorama import Fore, init
